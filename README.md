@@ -39,6 +39,9 @@ No futuro, o projeto será aprimorado com a criação de uma **carcaça personal
 Abaixo, um conceito visual de como a guitarra poderá ser:
 
 ## 🛠️Protótipo da Guitarra
+<div align="center">
+  <img height="390em" src="https://github.com/user-attachments/assets/69bffb28-4db8-4c87-951c-5fbeb0c4f9a5"/>
+</div>
 
 
 ---
